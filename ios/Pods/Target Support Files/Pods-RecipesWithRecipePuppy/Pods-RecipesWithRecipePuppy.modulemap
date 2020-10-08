@@ -1,0 +1,6 @@
+module Pods_RecipesWithRecipePuppy {
+  umbrella header "Pods-RecipesWithRecipePuppy-umbrella.h"
+
+  export *
+  module * { export * }
+}

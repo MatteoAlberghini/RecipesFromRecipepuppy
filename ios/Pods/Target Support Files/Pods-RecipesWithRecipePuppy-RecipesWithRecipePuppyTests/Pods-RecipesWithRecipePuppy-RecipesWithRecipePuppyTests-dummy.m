@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_RecipesWithRecipePuppy_RecipesWithRecipePuppyTests : NSObject
+@end
+@implementation PodsDummy_Pods_RecipesWithRecipePuppy_RecipesWithRecipePuppyTests
+@end
